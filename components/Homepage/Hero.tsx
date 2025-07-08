@@ -76,7 +76,7 @@ const Hero = () => {
         </svg>
       </div>
 
-      <div className="container relative z-10">
+      <div className="container mx-auto px-6 relative z-10 max-w-7xl">
         {/* AI Logo/Brand */}
         <div className="max-w-4xl mx-auto text-center">
           {/* Status Badge */}
