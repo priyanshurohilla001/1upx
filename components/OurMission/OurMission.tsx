@@ -25,7 +25,7 @@ const OurMission = () => {
   return (
     <section
       id="our-mission"
-      className="relative overflow-hidden bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white py-12 sm:py-16 md:py-20 lg:py-24 min-h-screen"
+      className="relative overflow-hidden bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white pb-12 pt-20 sm:py-24 md:py-32 lg:py-40 min-h-screen"
     >
       {/* Clean Grid Background */}
       <div className="absolute inset-0 opacity-20">

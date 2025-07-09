@@ -49,7 +49,7 @@ const PrivacyOwnership = () => {
   return (
     <section
       id="privacy-ownership"
-      className="relative overflow-hidden bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white py-12 sm:py-16 md:py-20 lg:py-24 min-h-screen"
+      className="relative overflow-hidden bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white pb-12 pt-20 sm:py-32 md:py-32 lg:py-40 min-h-screen"
     >
       {/* Clean Grid Background */}
       {/* <div className="absolute top-0 left-0 right-0 h-32 bg-gradient-to-t from-transparent to-white opacity-100" /> */}
