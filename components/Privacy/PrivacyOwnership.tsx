@@ -261,7 +261,7 @@ const PrivacyOwnership = () => {
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 sm:gap-8">
                   {/* No Training Guarantee */}
                   <div className="bg-gradient-to-br from-red-500/10 to-orange-500/10 border border-red-500/20 rounded-2xl p-6 sm:p-8 lg:p-10">
-                    <div className="flex flex-col sm:flex-row items-start space-y-4 sm:space-y-0 sm:space-x-4 mb-6 text-center sm:text-left">
+                    <div className="flex flex-col sm:flex-row items-start space-y-4 gap-4 sm:space-y-0 sm:space-x-4 mb-6 text-center sm:text-left">
                       <div className="bg-gradient-to-r from-red-500 to-orange-500 p-3 sm:p-4 rounded-xl flex-shrink-0 mx-auto sm:mx-0">
                         <Database className="w-5 h-5 sm:w-6 sm:h-6 text-white" />
                       </div>
@@ -290,7 +290,7 @@ const PrivacyOwnership = () => {
 
                   {/* Ownership Guarantee */}
                   <div className="bg-gradient-to-br from-amber-500/10 to-yellow-500/10 border border-amber-500/20 rounded-2xl p-6 sm:p-8 lg:p-10">
-                    <div className="flex flex-col sm:flex-row items-start space-y-4 sm:space-y-0 sm:space-x-4 mb-6 text-center sm:text-left">
+                    <div className="flex flex-col sm:flex-row items-start space-y-4 gap-4 sm:space-y-0 sm:space-x-4 mb-6 text-center sm:text-left">
                       <div className="bg-gradient-to-r from-amber-500 to-yellow-500 p-3 sm:p-4 rounded-xl flex-shrink-0 mx-auto sm:mx-0">
                         <Crown className="w-5 h-5 sm:w-6 sm:h-6 text-white" />
                       </div>
